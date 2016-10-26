@@ -8,10 +8,16 @@ Name | Email | Role
 --- | --- | ---
 John Smith | [john@mentallyfriendly.com](mailto:john@mentallyfriendly.com) | Project Manager
 
-### URL's
+### Development URL's
 * Testing: http://test.com
 * Staging:
 * Live:
+
+### Design URL's
+* Invision:
+
+### Admin URL's
+* Copy:
 
 ### Branches
 * Testing
